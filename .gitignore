@@ -1,2 +1,2 @@
-__pycache__/
-*.pyc
+# Ignore Python cache folders
+__pycache__
